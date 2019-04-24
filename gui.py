@@ -1,4 +1,5 @@
 import PySimpleGUI as sg
+from networktables import NetworkTables
 
 # Network Tables var setup
 network_table_spark_prefix = "Spark"
